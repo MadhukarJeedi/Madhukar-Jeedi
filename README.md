@@ -231,14 +231,49 @@ Kaggle
 
 Kaggle
 
-🎯 Current AI Focus
+## 🎯 Current AI Focus
 
-Generative AI        ████████████████████  100%
-LLMs & Prompting     ███████████████████░   95%
-RAG & Retrieval      ██████████████████░░   90%
-AI Agents            ██████████████████░░   90%
-Machine Learning     ███████████████████░   95%
-Deep Learning        ████████████████░░░░   80%
-Backend / APIs       ████████████████░░░░   80%
-Cloud / Deployment   ██████████████░░░░░░   70%
+<table>
+<tr>
+<td width="50%">
+
+**✨ Generative AI**
+
+`████████████████████` **100%**
+
+**🧠 LLMs & Prompting**
+
+`███████████████████░` **95%**
+
+**🔎 RAG & Retrieval**
+
+`██████████████████░░` **90%**
+
+**🧩 AI Agents**
+
+`██████████████████░░` **90%**
+
+</td>
+
+<td width="50%">
+
+**🤖 Machine Learning**
+
+`███████████████████░` **95%**
+
+**🧠 Deep Learning**
+
+`████████████████░░░░` **80%**
+
+**⚙️ Backend / APIs**
+
+`████████████████░░░░` **80%**
+
+**☁️ Cloud / Deployment**
+
+`██████████████░░░░░░` **70%`
+
+</td>
+</tr>
+</table>
 
