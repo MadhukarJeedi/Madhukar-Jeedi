@@ -67,35 +67,33 @@ Mission: Build practical, scalable, and intelligent AI systems — not just mode
 
 <br/>
 
-Python SQL Pandas NumPy Matplotlib Seaborn
+Python, SQL, Pandas, NumPy, Matplotlib, Seaborn
 
 🤖 Machine Learning
 
 <img src="https://skillicons.dev/icons?i=sklearn&perline=8" />
 
-Scikit-learn XGBoost Random Forest Regression Classification
-Feature Engineering Model Evaluation Hyperparameter Tuning SMOTE
+Scikit-learn, XGBoost, Random Forest, Regression, Classification, Feature Engineering, Model Evaluation, Hyperparameter Tuning, SMOTE
 
 🧠 Deep Learning & NLP
 
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=8" />
 
-PyTorch TensorFlow Keras ANN CNN RNN LSTM
-Hugging Face Transformers Sentence Transformers NLP Embeddings
+PyTorch, TensorFlow, Keras, ANN, CNN, RNN, LSTM, Hugging Face, Transformers, Sentence Transformers, NLP, Embeddings
 
 ✨ Generative AI & Agents
 
-LLMs Prompt Engineering RAG AI Agents LangChain LangGraph CrewAI
+LLMs, Prompt Engineering, RAG, AI Agents, LangChain, LangGraph, CrewAI
 
 🔎 Retrieval & Vector Search
 
-FAISS ChromaDB BM25 Semantic Search Vector Embeddings
+FAISS, ChromaDB, BM25, Semantic Search, Vector Embeddings
 
 ⚙️ Backend, DevOps & Deployment
 
 <img src="https://skillicons.dev/icons?i=fastapi,git,github,githubactions&perline=8" />
 
-FastAPI Uvicorn Streamlit Git GitHub GitHub Actions Render
+FastAPI, Uvicorn, Streamlit, Git, GitHub, GitHub Actions, Render
 
 </div>
 
@@ -176,39 +174,6 @@ flowchart LR
     G --> L
     L --> M[⚡ FastAPI / Streamlit]
     M --> N[☁️ Deploy]
-
-📈 GitHub Analytics
-
-<div align="center">
-
-<a href="https://github.com/MadhukarJeedi">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=MadhukarJeedi&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=transparent" />
-</a>
-<a href="https://github.com/MadhukarJeedi">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhukarJeedi&layout=compact&langs_count=8&hide_border=true&theme=transparent" />
-</a>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=MadhukarJeedi&theme=transparent&hide_border=true&mode=weekly" alt="GitHub contribution streak"/>
-
-</div>
-
-🟩 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MadhukarJeedi&bg_color=00000000&color=60a5fa&line=6366f1&point=38bdf8&area=true&hide_border=true" width="100%" alt="GitHub activity graph"/>
-
-</div>
-
-🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=MadhukarJeedi&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" alt="GitHub trophies"/>
-
-</div>
 
 📌 GitHub Profile Highlights
 
