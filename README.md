@@ -281,41 +281,41 @@ Kaggle
 <tr>
 <td width="50%" valign="top">
 
-✨ Generative AI — 100%
+✨ Generative AI
 
-████████████████████
+100% ████████████████████
 
-💬 LLMs & Prompting — 95%
+💬 LLMs & Prompting
 
-███████████████████░
+95% ███████████████████░
 
-🔎 RAG & Retrieval — 90%
+🔎 RAG & Retrieval
 
-██████████████████░░
+90% ██████████████████░░
 
-🤖 AI Agents — 90%
+🤖 AI Agents
 
-██████████████████░░
+90% ██████████████████░░
 
 </td>
 
 <td width="50%" valign="top">
 
-🧠 Machine Learning — 95%
+🧠 Machine Learning
 
-███████████████████░
+95% ███████████████████░
 
-🧬 Deep Learning — 80%
+🧬 Deep Learning
 
-████████████████░░░░
+80% ████████████████░░░░
 
-⚙️ Backend / APIs — 80%
+⚙️ Backend / APIs
 
-████████████████░░░░
+80% ████████████████░░░░
 
-☁️ Cloud / Deployment — 70%
+☁️ Cloud / Deployment
 
-██████████████░░░░░░
+70% ██████████████░░░░░░
 
 </td>
 </tr>
@@ -325,12 +325,12 @@ Kaggle
 
 <div align="center">
 
-If you like my profile, projects, or AI work, consider giving my profile repository a star ⭐
+If you like my profile or projects, check out my GitHub repositories and leave a ⭐ Star on the ones you find useful!
 
 <br/>
 
-<a href="https://github.com/MadhukarJeedi/MadhukarJeedi">
-  <img src="https://img.shields.io/badge/⭐%20Star%20My%20Profile%20Repository-FFD700?style=for-the-badge&logo=github&logoColor=111827" alt="Star my profile repository"/>
+<a href="https://github.com/MadhukarJeedi?tab=repositories">
+  <img src="https://img.shields.io/badge/⭐%20Explore%20%26%20Star%20My%20Projects-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore and star my GitHub projects"/>
 </a>
 
 </div>
