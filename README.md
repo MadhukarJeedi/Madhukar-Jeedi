@@ -155,26 +155,125 @@ These are the currently deployed projects available for recruiters and visitors 
 </tr>
 </table>
 
-🧩 How I Build AI Systems
+---
 
-flowchart LR
-    A[💡 Problem] --> B[📊 Data]
-    B --> C[🧹 Clean & Prepare]
-    C --> D[🧠 ML / DL Model]
-    D --> E{Need LLM?}
-    E -->|Yes| F[✨ LLM]
-    E -->|No| G[⚙️ Model Service]
-    F --> H{Need Knowledge?}
-    H -->|Yes| I[🔎 RAG + Vector DB]
-    H -->|No| J{Need Actions?}
-    I --> J
-    J -->|Yes| K[🧩 AI Agents + Tools]
-    J -->|No| L[🚀 Application]
-    K --> L
-    G --> L
-    L --> M[⚡ FastAPI / Streamlit]
-    M --> N[☁️ Deploy]
 
+## ⚙️ How I Build AI Systems
+
+
+<table>
+<tr>
+
+
+<td align="center" width="12.5%">
+
+
+### 1️⃣
+## 💡
+
+
+**Problem Definition**
+
+
+Understand the problem, goals & success metrics
+
+
+</td>
+
+
+<td align="center">➡️</td>
+
+
+<td align="center" width="12.5%">
+
+
+### 2️⃣
+## 🗄️
+
+
+**Data Collection**
+
+
+Gather data from APIs, databases, web & files
+
+
+</td>
+
+
+<td align="center">➡️</td>
+
+
+<td align="center" width="12.5%">
+
+
+### 3️⃣
+## 🧹
+
+
+**Data Preparation**
+
+
+Clean, preprocess, transform & engineer features
+
+
+</td>
+
+
+<td align="center">➡️</td>
+
+
+<td align="center" width="12.5%">
+
+
+### 4️⃣
+## 🧠
+
+
+**ML / DL Modeling**
+
+
+Train, validate & evaluate ML/DL models or use LLMs
+
+
+</td>
+
+
+</tr>
+
+
+<tr>
+
+
+<td align="center">⬇️</td>
+<td></td>
+<td align="center">⬇️</td>
+<td></td>
+<td align="center">⬇️</td>
+<td></td>
+<td align="center">⬇️</td>
+<td></td>
+
+
+</tr>
+
+
+<tr>
+
+
+<td align="center" width="12.5%">
+
+
+### 5️⃣
+## ✨
+
+
+**Intelligence Layer**
+
+
+Add reasoning, prompting, RAG & context handling
+
+
+---
 🧪 AI Engineering Workflow
 
 def build_ai_solution(problem):
