@@ -105,43 +105,24 @@ FastAPI Uvicorn Streamlit Git GitHub GitHub Actions Render
 <tr>
 <td width="50%" valign="top">
 
-🤖 AI Data Science / AutoML Agent
+💼 AI-Powered Job Recommendation System
 
-Multi-agent AI workflow designed to automate the data science lifecycle.
+An intelligent job recommendation system designed to match candidate profiles and skills with relevant job opportunities.
 
-Pipeline
+Focus: NLP • Recommendation System • Similarity Matching • Machine Learning
 
-Dataset
-→ Cleaning
-→ EDA
-→ Features
-→ Model
-→ Tuning
-→ Deployment
-→ Report
-
-Stack: Python • CrewAI • LangChain • LangGraph • ML • GenAI
+<a href="https://job-recommendation-system-madhu.streamlit.app/">
+  <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Try%20It%20Now-16a34a?style=for-the-badge" alt="Job Recommendation Live Demo"/>
+</a>
 
 </td>
 <td width="50%" valign="top">
 
-🌱 Smart Irrigation Predictor
+🌱 AgroSense — Irrigation Need Predictor
 
-ML system for predicting irrigation requirements from soil and environmental conditions.
+A machine learning application that predicts irrigation requirements based on soil and environmental conditions.
 
-Highlights
-
-Feature engineering
-
-SMOTE class balancing
-
-Model comparison
-
-XGBoost / Random Forest
-
-Production preprocessing pipeline
-
-Stack: Python • Scikit-learn • XGBoost • Pandas
+Focus: Machine Learning • XGBoost • Random Forest • Feature Engineering • SMOTE
 
 <a href="https://smart-irrigation-need-predictor.onrender.com">
   <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Try%20AgroSense-16a34a?style=for-the-badge" alt="AgroSense Live Demo"/>
@@ -155,25 +136,9 @@ Stack: Python • Scikit-learn • XGBoost • Pandas
 
 ✈️ AI Travel Planner Agent
 
-LLM-powered travel assistant combining reasoning with external tools and APIs.
+An AI-powered travel planning application that combines LLM reasoning with travel-related tools and APIs.
 
-Capabilities
-
-Itinerary generation
-
-Weather information
-
-Places search
-
-Routes
-
-Railway assistance
-
-FastAPI backend
-
-Streamlit frontend
-
-Stack: LangGraph • LangChain • Groq • FastAPI • Streamlit
+Focus: LangGraph • LangChain • Groq • FastAPI • Streamlit • AI Agents
 
 <a href="https://travel-planner-agent-madhu.streamlit.app/">
   <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Plan%20a%20Trip-16a34a?style=for-the-badge" alt="AI Travel Planner Live Demo"/>
@@ -182,65 +147,11 @@ Stack: LangGraph • LangChain • Groq • FastAPI • Streamlit
 </td>
 <td width="50%" valign="top">
 
-🚆 Railway RAG Assistant
+⭐ Live Project Portfolio
 
-Retrieval-Augmented Generation assistant built around a custom railway knowledge base.
+These are the currently deployed projects available for recruiters and visitors to try directly.
 
-Architecture
-
-Documents → Chunks → Embeddings → FAISS → Retrieval → LLM
-
-Stack: Python • FAISS • Sentence Transformers • Groq • RAG
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-💼 AI Job Recommendation System
-
-An intelligent job recommendation project designed to connect candidate skills and profiles with relevant job opportunities.
-
-Capabilities
-
-Skill and profile-based recommendations
-
-Job-to-candidate relevance matching
-
-Text preprocessing and feature extraction
-
-Similarity-based ranking
-
-Personalized job discovery workflow
-
-Stack: Python • Pandas • Scikit-learn • NLP • Feature Engineering • Similarity Search
-
-<a href="https://job-recommendation-system-madhu.streamlit.app/">
-  <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Try%20It%20Now-16a34a?style=for-the-badge" alt="Job Recommendation Live Demo"/>
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-🌊 Wave Energy Prediction
-
-Regression system for predicting wave energy output from physical and environmental features.
-
-Stack: Python • Pandas • Scikit-learn • Random Forest • Feature Engineering
-
-</td>
-<td width="50%" valign="top">
-
-🎙️ Personal AI Voice Agent
-
-Siri-style AI assistant concept designed to understand natural-language commands and execute actions through tools and APIs.
-
-Architecture
-
-Speech → LLM → Intent → Tools → Action → Response
-
-Focus: LLMs • Agents • Prompt Engineering • APIs
+3 Live AI Applications • Interactive Demos • Production Deployments
 
 </td>
 </tr>
