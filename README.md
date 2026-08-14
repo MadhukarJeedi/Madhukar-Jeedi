@@ -93,9 +93,9 @@ FAISS ChromaDB BM25 Semantic Search Vector Embeddings
 
 ⚙️ Backend, DevOps & Deployment
 
-<img src="https://skillicons.dev/icons?i=fastapi,docker,git,github,githubactions&perline=8" />
+<img src="https://skillicons.dev/icons?i=fastapi,git,github,githubactions&perline=8" />
 
-FastAPI Uvicorn Streamlit Docker Git GitHub GitHub Actions Render
+FastAPI Uvicorn Streamlit Git GitHub GitHub Actions Render
 
 </div>
 
@@ -143,6 +143,10 @@ Production preprocessing pipeline
 
 Stack: Python • Scikit-learn • XGBoost • Pandas
 
+<a href="https://smart-irrigation-need-predictor.onrender.com">
+  <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Try%20AgroSense-16a34a?style=for-the-badge" alt="AgroSense Live Demo"/>
+</a>
+
 </td>
 </tr>
 
@@ -171,6 +175,10 @@ Streamlit frontend
 
 Stack: LangGraph • LangChain • Groq • FastAPI • Streamlit
 
+<a href="https://travel-planner-agent-madhu.streamlit.app/">
+  <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Plan%20a%20Trip-16a34a?style=for-the-badge" alt="AI Travel Planner Live Demo"/>
+</a>
+
 </td>
 <td width="50%" valign="top">
 
@@ -188,6 +196,31 @@ Stack: Python • FAISS • Sentence Transformers • Groq • RAG
 </tr>
 
 <tr>
+<td width="50%" valign="top">
+
+💼 AI Job Recommendation System
+
+An intelligent job recommendation project designed to connect candidate skills and profiles with relevant job opportunities.
+
+Capabilities
+
+Skill and profile-based recommendations
+
+Job-to-candidate relevance matching
+
+Text preprocessing and feature extraction
+
+Similarity-based ranking
+
+Personalized job discovery workflow
+
+Stack: Python • Pandas • Scikit-learn • NLP • Feature Engineering • Similarity Search
+
+<a href="https://job-recommendation-system-madhu.streamlit.app/">
+  <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Try%20It%20Now-16a34a?style=for-the-badge" alt="Job Recommendation Live Demo"/>
+</a>
+
+</td>
 <td width="50%" valign="top">
 
 🌊 Wave Energy Prediction
