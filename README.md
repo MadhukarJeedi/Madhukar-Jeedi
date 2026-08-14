@@ -157,23 +157,56 @@ These are the currently deployed projects available for recruiters and visitors 
 
 🧩 How I Build AI Systems
 
-flowchart LR
-    A[💡 Problem] --> B[📊 Data]
-    B --> C[🧹 Clean & Prepare]
-    C --> D[🧠 ML / DL Model]
-    D --> E{Need LLM?}
-    E -->|Yes| F[✨ LLM]
-    E -->|No| G[⚙️ Model Service]
-    F --> H{Need Knowledge?}
-    H -->|Yes| I[🔎 RAG + Vector DB]
-    H -->|No| J{Need Actions?}
-    I --> J
-    J -->|Yes| K[🧩 AI Agents + Tools]
-    J -->|No| L[🚀 Application]
-    K --> L
-    G --> L
-    L --> M[⚡ FastAPI / Streamlit]
-    M --> N[☁️ Deploy]
+<div align="center">
+
+┌──────────────────────────────┐
+│       💡 1. Problem          │
+│   Understand the use case    │
+└──────────────┬───────────────┘
+               │
+               ▼
+┌──────────────────────────────┐
+│       📊 2. Data             │
+│   Collect & prepare data     │
+└──────────────┬───────────────┘
+               │
+               ▼
+┌──────────────────────────────┐
+│       🧹 3. Preprocessing     │
+│ Clean • Transform • Engineer │
+└──────────────┬───────────────┘
+               │
+               ▼
+┌──────────────────────────────┐
+│       🧠 4. AI Model          │
+│ ML • DL • LLM                │
+└──────────────┬───────────────┘
+               │
+               ▼
+┌──────────────────────────────┐
+│       ✨ 5. Intelligence      │
+│ LLM • RAG • Embeddings       │
+└──────────────┬───────────────┘
+               │
+               ▼
+┌──────────────────────────────┐
+│       🧩 6. AI Agents         │
+│ Tools • Memory • Workflows   │
+└──────────────┬───────────────┘
+               │
+               ▼
+┌──────────────────────────────┐
+│       ⚙️ 7. Application       │
+│ FastAPI • Streamlit • APIs   │
+└──────────────┬───────────────┘
+               │
+               ▼
+┌──────────────────────────────┐
+│       🚀 8. Deployment        │
+│   Test • Deploy • Monitor    │
+└──────────────────────────────┘
+
+</div>
 
 📌 GitHub Profile Highlights
 
@@ -249,14 +282,45 @@ Kaggle
 
 🎯 Current AI Focus
 
-Generative AI        ████████████████████  100%
-LLMs & Prompting     ███████████████████░   95%
-RAG & Retrieval      ██████████████████░░   90%
-AI Agents            ██████████████████░░   90%
-Machine Learning     ███████████████████░   95%
-Deep Learning        ████████████████░░░░   80%
-Backend / APIs       ████████████████░░░░   80%
-Cloud / Deployment   ██████████████░░░░░░   70%
+<div align="center">
+
+Area
+
+Focus
+
+✨ Generative AI
+
+LLM Applications, Prompt Engineering
+
+🧠 LLMs
+
+Prompt Design, Model Integration, AI Applications
+
+🔎 RAG & Retrieval
+
+FAISS, ChromaDB, BM25, Semantic Search, Embeddings
+
+🧩 AI Agents
+
+LangChain, LangGraph, CrewAI, Tool Calling
+
+🤖 Machine Learning
+
+Scikit-learn, XGBoost, Random Forest, Model Evaluation
+
+🧠 Deep Learning
+
+TensorFlow, Keras, PyTorch, ANN, CNN, RNN, LSTM
+
+⚙️ Backend & APIs
+
+FastAPI, Uvicorn, Streamlit, REST APIs
+
+🚀 Deployment
+
+Render, GitHub Actions, Production AI Applications
+
+</div>
 
 🌐 Find Me Online
 
