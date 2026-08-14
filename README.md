@@ -107,20 +107,21 @@ FastAPI, Uvicorn, Streamlit, Git, GitHub, GitHub Actions, Render
 
 An intelligent job recommendation system designed to match candidate profiles and skills with relevant job opportunities.
 
-Focus: NLP • Recommendation System • Similarity Matching • Machine Learning
+Focus: NLP, Recommendation System, Similarity Matching, Machine Learning
 
 <a href="https://job-recommendation-system-madhu.streamlit.app/">
   <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Try%20It%20Now-16a34a?style=for-the-badge" alt="Job Recommendation Live Demo"/>
 </a>
 
 </td>
+
 <td width="50%" valign="top">
 
 🌱 AgroSense — Irrigation Need Predictor
 
 A machine learning application that predicts irrigation requirements based on soil and environmental conditions.
 
-Focus: Machine Learning • XGBoost • Random Forest • Feature Engineering • SMOTE
+Focus: Machine Learning, XGBoost, Random Forest, Feature Engineering, SMOTE
 
 <a href="https://smart-irrigation-need-predictor.onrender.com">
   <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Try%20AgroSense-16a34a?style=for-the-badge" alt="AgroSense Live Demo"/>
@@ -134,175 +135,119 @@ Focus: Machine Learning • XGBoost • Random Forest • Feature Engineering �
 
 ✈️ AI Travel Planner Agent
 
-An AI-powered travel planning application that combines LLM reasoning with travel-related tools and APIs.
+An AI-powered travel planning application combining LLM reasoning with travel-related tools and APIs.
 
-Focus: LangGraph • LangChain • Groq • FastAPI • Streamlit • AI Agents
+Focus: LangGraph, LangChain, Groq, FastAPI, Streamlit, AI Agents
 
 <a href="https://travel-planner-agent-madhu.streamlit.app/">
   <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Plan%20a%20Trip-16a34a?style=for-the-badge" alt="AI Travel Planner Live Demo"/>
 </a>
 
 </td>
+
 <td width="50%" valign="top">
 
-⭐ Live Project Portfolio
+🌐 Deployed AI Applications
 
-These are the currently deployed projects available for recruiters and visitors to try directly.
+Three live AI projects are available for recruiters and visitors to explore directly.
 
-3 Live AI Applications • Interactive Demos • Production Deployments
+Interactive Demos • AI/ML Applications • Production Deployments
 
 </td>
 </tr>
 </table>
 
----
-
-
-## ⚙️ How I Build AI Systems
-
+⚙️ How I Build AI Systems
 
 <table>
 <tr>
-
-
 <td align="center" width="12.5%">
 
+1️⃣ 💡
 
-### 1️⃣
-## 💡
-
-
-**Problem Definition**
-
+Problem Definition
 
 Understand the problem, goals & success metrics
 
-
 </td>
-
-
-<td align="center">➡️</td>
-
-
+<td align="center" width="3%">➡️</td>
 <td align="center" width="12.5%">
 
+2️⃣ 🗄️
 
-### 2️⃣
-## 🗄️
-
-
-**Data Collection**
-
+Data Collection
 
 Gather data from APIs, databases, web & files
 
-
 </td>
-
-
-<td align="center">➡️</td>
-
-
+<td align="center" width="3%">➡️</td>
 <td align="center" width="12.5%">
 
+3️⃣ 🧹
 
-### 3️⃣
-## 🧹
-
-
-**Data Preparation**
-
+Data Preparation
 
 Clean, preprocess, transform & engineer features
 
+</td>
+<td align="center" width="3%">➡️</td>
+<td align="center" width="12.5%">
+
+4️⃣ 🧠
+
+ML / DL Modeling
+
+Train, validate & evaluate models or use LLMs
 
 </td>
+</tr>
 
+<tr>
+<td align="center" colspan="7">⬇️ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ➡️ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ➡️ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ➡️</td>
+</tr>
 
+<tr>
+<td align="center" width="12.5%">
+
+5️⃣ ✨
+
+Intelligence Layer
+
+Reasoning, prompting, RAG & context handling
+
+</td>
 <td align="center">➡️</td>
-
-
 <td align="center" width="12.5%">
 
+6️⃣ 🤖
 
-### 4️⃣
-## 🧠
+AI Agents & Tools
 
-
-**ML / DL Modeling**
-
-
-Train, validate & evaluate ML/DL models or use LLMs
-
+Tools, APIs, agents & function calling
 
 </td>
-
-
-</tr>
-
-
-<tr>
-
-
-<td align="center">⬇️</td>
-<td></td>
-<td align="center">⬇️</td>
-<td></td>
-<td align="center">⬇️</td>
-<td></td>
-<td align="center">⬇️</td>
-<td></td>
-
-
-</tr>
-
-
-<tr>
-
-
+<td align="center">➡️</td>
 <td align="center" width="12.5%">
 
+7️⃣ 🌐
 
-### 5️⃣
-## ✨
+Application Layer
 
+Build interfaces & APIs with FastAPI / Streamlit
 
-**Intelligence Layer**
+</td>
+<td align="center">➡️</td>
+<td align="center" width="12.5%">
 
+8️⃣ 🚀
 
-Add reasoning, prompting, RAG & context handling
+Deployment & Monitoring
 
+Deploy, monitor, log & continuously improve
 
----
-🧪 AI Engineering Workflow
-
-def build_ai_solution(problem):
-
-    # 1. Understand
-    requirements = understand(problem)
-
-    # 2. Prepare
-    data = collect_and_clean(requirements)
-    insights = explore(data)
-
-    # 3. Build
-    model = train_and_evaluate(data)
-
-    # 4. Add intelligence when needed
-    if requires_llm(problem):
-        model = integrate_llm(model)
-
-    if requires_knowledge(problem):
-        model = add_rag(model)
-
-    if requires_actions(problem):
-        model = add_tools_and_agents(model)
-
-    # 5. Ship
-    application = build_api_or_ui(model)
-    deploy(application)
-
-    return application
+</td>
+</tr>
+</table>
 
 📚 Certifications & Learning
 
@@ -330,49 +275,62 @@ Kaggle
 
 Kaggle
 
-## 🎯 Current AI Focus
+🎯 Current AI Focus
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**✨ Generative AI**
+✨ Generative AI — 100%
 
-`████████████████████` **100%**
+████████████████████
 
-**🧠 LLMs & Prompting**
+💬 LLMs & Prompting — 95%
 
-`███████████████████░` **95%**
+███████████████████░
 
-**🔎 RAG & Retrieval**
+🔎 RAG & Retrieval — 90%
 
-`██████████████████░░` **90%**
+██████████████████░░
 
-**🧩 AI Agents**
+🤖 AI Agents — 90%
 
-`██████████████████░░` **90%**
+██████████████████░░
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-**🤖 Machine Learning**
+🧠 Machine Learning — 95%
 
-`███████████████████░` **95%**
+███████████████████░
 
-**🧠 Deep Learning**
+🧬 Deep Learning — 80%
 
-`████████████████░░░░` **80%**
+████████████████░░░░
 
-**⚙️ Backend / APIs**
+⚙️ Backend / APIs — 80%
 
-`████████████████░░░░` **80%**
+████████████████░░░░
 
-**☁️ Cloud / Deployment**
+☁️ Cloud / Deployment — 70%
 
-`██████████████░░░░░░` **70%`
+██████████████░░░░░░
 
 </td>
 </tr>
 </table>
 
+⭐ Like My Profile?
+
+<div align="center">
+
+If you like my profile, projects, or AI work, consider giving my profile repository a star ⭐
+
+<br/>
+
+<a href="https://github.com/MadhukarJeedi/MadhukarJeedi">
+  <img src="https://img.shields.io/badge/⭐%20Star%20My%20Profile%20Repository-FFD700?style=for-the-badge&logo=github&logoColor=111827" alt="Star my profile repository"/>
+</a>
+
+</div>
